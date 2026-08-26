@@ -1,6 +1,6 @@
 # ⚙ 自建 R2 免费额度监控
 
-![自建R2 免费额度监控 CF-Workers-R2](./sub.png)
+
 
 
 </details>
