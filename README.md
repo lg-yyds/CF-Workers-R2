@@ -1,7 +1,7 @@
 # ⚙ 自用 R2 免费额度监控（GPT写）
 
 
-./top.png
+![效果图](./top.png)
 
 </details>
 
