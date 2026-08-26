@@ -25,9 +25,9 @@
 | CF_API_TOKEN | `你的API_Token` | ✅ | 权限：Account Analytics Read | 
 | ALERT_THRESHOLD | `80` | ✅ | 报警阈值 %，默认 80 |
 | ALWAYS_NOTIFY | `false` | ✅ | true 每次定时都推，false 仅超阈值 | 
-| TG_BOT_TOKEN | `6894123456:XXXXXXXXXX0qExVsBPUhHDAbXXXXXqWXgBA` | ❌ | 发送TG通知的机器人token | 
+| TG_BOT_TOKEN | `6894123456:XXX*XXX0*XXXXqWXgBA` | ❌ | 发送TG通知的机器人token | 
 | TG_CHAT_ID | `6946912345` | ❌ | 接收TG通知的账户数字ID | 
-| QYWX_AM | `ww6634666e5996,NevxRwSNpb9x0sUZj1BDBPCiOP7DsRSYDg5lM,@all,1000002,0` | ❌ | 企业微信 |
+| QYWX_AM | `ww663*996,NevxRwSNp*SYDg5lM,@all,1000002,0` | ❌ | 企业微信 |
 
 
 
