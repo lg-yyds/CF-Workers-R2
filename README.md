@@ -13,7 +13,7 @@
 ### 部署 Cloudflare Worker：
 
    - 在 Cloudflare Worker 控制台中创建一个新的 Worker。
-   - 将 [_worker.js]([https://github.com/cmliu/CF-Workers-SUB/blob/main/_worker.js](https://github.com/lg-yyds/CF-Workers-R2/blob/main/_worker.js))  的内容粘贴到 Worker 编辑器中。
+   - 将 [_worker.js](https://github.com/lg-yyds/CF-Workers-R2/blob/main/_worker.js) 的内容粘贴到 Worker 编辑器中。
 
 
 </details>
